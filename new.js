@@ -10,7 +10,7 @@ console.log(c)
 else
 console.log(typeof(c))
 //const d=null ?? 'null value';
-//const h=8 ?? 'not null';
+//const h=8 ?? 'not null';  
 var g=8;
 do{
     console.log(g);
