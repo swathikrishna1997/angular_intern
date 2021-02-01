@@ -12,7 +12,6 @@ user = [1, "Steve", true, 20, "Admin"];
 let value:boolean=true;
 //interface
 interface person{
-    name:string;
     age:number;
     language(a:string):void;
 }
